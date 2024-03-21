@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Contact</title>
+        <link rel="stylesheet" href="../content/styles.css">
+   
+   </head>
+   <body style="background-color: rgb(198, 198, 198);"></body>
+   
+       <ul class="navul">
+           <li><a href="index.html">Home</a></li>
+           <li><a href="my resume.html">My Resume</a></li>
+           <li><a href="family.html">Family</a></li>
+           <li><a href="Contact">Contact</a></li>
+         </ul>
+     
+   <h1>Contact Me</h1>
+       
+    <h1>Phone</h1>
+    <ul><h2>1+ (509) 844-3125</h2></ul>
+    <h2>.</h2>
+    <h2>.</h2>
+    <h1>Email</h1>
+    <ul><h2>Antonio.Lambert@icloud.com</h2></ul>
+    <h2>.</h2>
+    <h2>.</h2>
+    <h1>Instagram</h1>
+    <ul><h2>Antoniolambert_</h2></ul>
+    
+    
+
+</body>
+</html>
